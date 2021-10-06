@@ -1,0 +1,11 @@
+body{
+    overflow: hidden;
+}
+
+#blob1, #blob2, #blob3, #blob4, #blob5, #blob6, #blob7, #blob8, #blob9, #blob10, #blob11, #blob12, #blob13, #blob14{
+    position: absolute;
+    width: 0;
+    height: 0;
+    background-color: #33d6ff;
+    border-radius: 100%;
+}
